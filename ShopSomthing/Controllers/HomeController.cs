@@ -55,6 +55,14 @@ namespace ShopSomthing.Controllers
         {
             return View("Admin/Admin");
         }
+        public IActionResult QLTK()
+        {
+            return View("Admin/QLTK");
+        }
+        public IActionResult ThongKe()
+        {
+            return View("Admin/ThongKe");
+        }
         public IActionResult Privacy()
         {
             return View();

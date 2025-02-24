@@ -32,3 +32,4 @@ C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\refint\Sho
 C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.pdb
 C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.genruntimeconfig.cache
 C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ref\ShopSomthing.dll
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.sourcelink.json
