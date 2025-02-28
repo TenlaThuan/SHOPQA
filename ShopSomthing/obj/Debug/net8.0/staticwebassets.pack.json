@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopSomthing.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopSomthing.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\ctsp.css",
+      "PackagePath": "staticwebassets\\css\\ctsp.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\dangky.css",
+      "PackagePath": "staticwebassets\\css\\dangky.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\dangnhap.css",
+      "PackagePath": "staticwebassets\\css\\dangnhap.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\giohang.css",
+      "PackagePath": "staticwebassets\\css\\giohang.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\sanpham.css",
+      "PackagePath": "staticwebassets\\css\\sanpham.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\a10c789645c2809cd9d37.jpg",
+      "PackagePath": "staticwebassets\\img\\a10c789645c2809cd9d37.jpg"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\aokhoactreem.png",
+      "PackagePath": "staticwebassets\\img\\aokhoactreem.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\aonam.png",
+      "PackagePath": "staticwebassets\\img\\aonam.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\aotoanthan.png",
+      "PackagePath": "staticwebassets\\img\\aotoanthan.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\kid.png",
+      "PackagePath": "staticwebassets\\img\\kid.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\man.png",
+      "PackagePath": "staticwebassets\\img\\man.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\thongtin1.png",
+      "PackagePath": "staticwebassets\\img\\thongtin1.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\thongtin2.png",
+      "PackagePath": "staticwebassets\\img\\thongtin2.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\thongtin3.png",
+      "PackagePath": "staticwebassets\\img\\thongtin3.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\thongtin4.png",
+      "PackagePath": "staticwebassets\\img\\thongtin4.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\trangchu.png",
+      "PackagePath": "staticwebassets\\img\\trangchu.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\woman.png",
+      "PackagePath": "staticwebassets\\img\\woman.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\img\\z6231624999151_000_b50f9960d0272f7683c76b5f898aaf97.png",
+      "PackagePath": "staticwebassets\\img\\z6231624999151_000_b50f9960d0272f7683c76b5f898aaf97.png"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopSomthing.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopSomthing.props",
+      "PackagePath": "build\\ShopSomthing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopSomthing.props",
+      "PackagePath": "buildMultiTargeting\\ShopSomthing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopSomthing.props",
+      "PackagePath": "buildTransitive\\ShopSomthing.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,34 @@
+﻿@model List<ShopSomthing.Models.DanhMucSanPham>
+
+<h2>Danh mục sản phẩm</h2>
+
+
+
+@if (Model != null && Model.Any())
+{
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Mã danh mục</th>
+                    <th>Tên danh mục</th>
+                    <th>Mô tả</th>
+                    <th>Ngày tạo</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>@item.MaDanhMuc</td>
+                            <td>@item.TenDanhMuc</td>
+                            <td>@item.MoTa</td>
+                            <td>@item.NgayTao.ToString("dd/MM/yyyy")</td>
+                        </tr>
+            }
+            </tbody>
+        </table>
+}
+else
+{
+        <p>Không có dữ liệu nào để hiển thị.</p>
+}

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "ThongKe";
+}
+<link href="~/css/admin.css" rel="stylesheet" />
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <aside class="col-md-2 bg-dark text-white p-3 vh-100">
+            <h4 class="text-center">Admin Panel</h4>
+            <ul class="nav flex-column">
+                <li class="nav-item"><a asp-controller="Home" asp-action="Admin" class="nav-link text-white">🛍 Quản lý Sản phẩm</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="QLTK" class="nav-link text-white">👤 Quản lý Tài khoản</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="ThongKe" class="nav-link text-white">📊 Thống kê</a></li>
+
+        </aside>
+
+        <!-- Main Content -->
+        <main class="col-md-10 p-4">
+            <h2 class="mb-4">Bảng quản lý</h2>          
+            <h4>Thống kê</h4>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <div class="p-3 bg-primary text-white rounded">Total Products: 50</div>
+                </div>
+                <div class="col-md-4">
+                    <div class="p-3 bg-success text-white rounded">Total Users: 200</div>
+                </div>
+                <div class="col-md-4">
+                    <div class="p-3 bg-danger text-white rounded">Total Orders: 150</div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

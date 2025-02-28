@@ -1,0 +1,33 @@
+﻿@model List<ShopSomthing.Models.DanhMucSanPham>
+
+<link href="~/css/sanpham.css" rel="stylesheet" />
+<div class="container mt-4">
+    <h2>Đồ Nam</h2>
+    <div class="row g-4">
+        <div class="col-md-4">
+                @if(Model != null ){
+                            @foreach (var sanpham in Model)
+                            {
+                                        <div class="product-card">
+                                           
+                                            <div class="card-body">
+                                                <h5>@sanpham.TenDanhMuc</h5>
+                                                <p>@sanpham.MoTa </p>
+                                                <button class="btn btn-primary">Thêm vào giỏ hàng</button>
+                                            </div>
+                                        </div>
+                            }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3" class="text-center text-muted">Không có danh mục nào.</td>
+                    </tr>
+                }
+                
+            
+           
+        </div>
+   
+    </div>
+</div>  

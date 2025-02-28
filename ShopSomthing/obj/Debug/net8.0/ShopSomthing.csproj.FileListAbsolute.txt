@@ -1,0 +1,189 @@
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.staticwebassets.runtime.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.staticwebassets.endpoints.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.exe
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.deps.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.runtimeconfig.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.dll
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\bin\Debug\net8.0\ShopSomthing.pdb
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\scopedcss\bundle\ShopSomthing.styles.css
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\scopedcss\projectbundle\ShopSomthing.bundle.scp.css
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.ShopSomthing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.ShopSomthing.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopSomthing.props
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopSomthing.props
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopSomthing.props
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.dll
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\refint\ShopSomthing.dll
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.pdb
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ref\ShopSomthing.dll
+C:\Users\DELL\source\repos\ShopSomthing\ShopSomthing\obj\Debug\net8.0\ShopSomthing.sourcelink.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.csproj.AssemblyReference.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.AssemblyInfoInputs.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.AssemblyInfo.cs
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.RazorAssemblyInfo.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.RazorAssemblyInfo.cs
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.sourcelink.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\refint\ShopSomthing.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.pdb
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\appsettings.Development.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\appsettings.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.staticwebassets.runtime.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.exe
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.deps.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.runtimeconfig.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ShopSomthing.pdb
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Azure.Core.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Azure.Identity.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Humanizer.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.ClientModel.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.CodeDom.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.ShopSomthing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopSomthing.props
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopSomthing.props
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopSomthing.props
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\scopedcss\bundle\ShopSomthing.styles.css
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\scopedcss\projectbundle\ShopSomthing.bundle.scp.css
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomt.E540F60C.Up2Date
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ShopSomthing.genruntimeconfig.cache
+D:\FPT polytechnic\TRA THU C5\APICUACO\SHOPQA\ShopSomthing\obj\Debug\net8.0\ref\ShopSomthing.dll
