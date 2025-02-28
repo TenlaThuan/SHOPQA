@@ -1,0 +1,6 @@
+@APIQLQA_HostAddress = http://localhost:5240
+
+GET {{APIQLQA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
