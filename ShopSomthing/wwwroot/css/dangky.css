@@ -1,0 +1,63 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+
+
+.login-container {
+    display: flex;
+    width: 800px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}
+
+.login-image {
+    width: 50%;
+    background: url('https://via.placeholder.com/400x500') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.login-form {
+    width: 50%;
+    padding: 40px;
+}
+
+    .login-form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .login-form .form-control {
+        margin-bottom: 15px;
+    }
+
+    .login-form a {
+        display: block;
+        text-align: right;
+        margin-bottom: 10px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .login-form a:hover {
+            text-decoration: underline;
+        }
+
+.hero-section img {
+    width: 100%;
+    height: auto;
+    filter: brightness(70%);
+}

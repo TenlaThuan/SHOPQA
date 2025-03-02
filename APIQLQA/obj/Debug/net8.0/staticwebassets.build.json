@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "5uuLU3f54xfsm8DL0t3CLCf35WhrlCsMY3jWTKhI/xo=",
+  "Source": "APIQLQA",
+  "BasePath": "_content/APIQLQA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIQLQA\\wwwroot",
+      "Source": "APIQLQA",
+      "ContentRoot": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\wwwroot\\",
+      "BasePath": "_content/APIQLQA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\wwwroot\\image\\aonam.png",
+      "SourceId": "APIQLQA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\wwwroot\\",
+      "BasePath": "_content/APIQLQA",
+      "RelativePath": "image/aonam.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\aonam.png"
+    }
+  ]
+}

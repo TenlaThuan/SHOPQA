@@ -1,0 +1,36 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.about-section {
+    padding: 50px 0;
+}
+
+.about-text {
+    max-width: 500px;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.info-box {
+    text-align: center;
+    padding: 20px;
+}
+
+    .info-box h3 {
+        color: #f7931e;
+    }
+
+.btn-custom {
+    border: 1px solid #f7931e;
+    color: #f7931e;
+    padding: 10px 20px;
+}
+
+    .btn-custom:hover {
+        background-color: #f7931e;
+        color: #fff;
+    }

@@ -1,0 +1,35 @@
+﻿@model NguoiDung
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        <strong>Lỗi:</strong> Không tìm thấy tài khoản để xóa.
+    </div>
+}
+else
+{
+    <div class="container mt-4">
+        <h2>Xóa Tài Khoản</h2>
+        <p>Bạn có chắc muốn xóa tài khoản này?</p>
+
+        <table class="table table-bordered">
+            <tr><th>Mã tài khoản</th><td>@Model.MaNguoiDung</td></tr>
+            <tr><th>Tên</th><td>@Model.HoTen</td></tr>
+            <tr><th>Hình ảnh</th><td>@Model.Email</td></tr>
+            <tr><th>Kích thước</th><td>@Model.MatKhau</td></tr>
+            <tr><th>Thương hiệu</th><td>@Model.SoDienThoai</td></tr>
+            <tr><th>Chất liệu</th><td>@Model.VaiTro</td></tr>
+            <tr><th>Xuất xứ</th><td>@Model.NgayTao</td></tr>
+        </table>
+
+        <form asp-action="DeleteConfirmed" method="post">
+            <input type="hidden" name="id" value="@Model.MaNguoiDung" />
+
+            <p><strong>ID tài khoản cần xóa:</strong> @Model.MaNguoiDung</p>
+
+            <button type="submit" class="btn btn-danger">Xác nhận Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </form>
+
+    </div>
+}

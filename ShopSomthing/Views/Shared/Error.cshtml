@@ -1,0 +1,24 @@
+﻿@model ErrorViewModel
+
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Lỗi.</h1>
+<h2 class="text-danger">Đã xảy ra lỗi trong quá trình xử lý yêu cầu.</h2>
+
+@if (Model != null && Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+else
+{
+    <p><strong>Mô tả lỗi:</strong> @ViewData["ErrorMessage"]</p>
+}
+
+<h3>Chế độ phát triển</h3>
+<p>
+    Để hiển thị lỗi chi tiết, hãy chuyển sang <strong>Development</strong> mode.
+</p>

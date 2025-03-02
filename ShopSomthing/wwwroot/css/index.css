@@ -1,0 +1,41 @@
+﻿.hero-section {
+            position: relative;
+            background: url('https://via.placeholder.com/600x400') no-repeat center center/cover;
+            color: white;
+        }
+        .hero-section h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        .hero-section .btn {
+            background: black;
+            color: white;
+        }
+        .category-card {
+            position: relative;
+            color: white;
+        }
+        .category-card img {
+            width: 100%;
+            height: auto;
+            filter: brightness(70%);
+        }
+        .category-card .overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        .hero-section img{
+            width: 100%;
+            height: auto;
+            filter: brightness(70%);
+        }
+        .hero-section .overlay{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }

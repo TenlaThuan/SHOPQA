@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\controllers\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\controllers\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\controllers\\danhmucsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\controllers\\danhmucsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\apiqlqa\\model\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B592789-C9AA-496D-B7AE-6C20780CAE95}|APIQLQA\\APIQLQA.csproj|solutionrelative:apiqlqa\\model\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Controllers\\NguoiDung.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\NguoiDung.cs",
+              "RelativeToolTip": "APIQLQA\\Controllers\\NguoiDung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:02:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "APIQLQA\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:56:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhmucSanPhamController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\DanhmucSanPhamController.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Controllers\\DanhmucSanPhamController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Controllers\\DanhmucSanPhamController.cs",
+              "RelativeToolTip": "APIQLQA\\Controllers\\DanhmucSanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:46:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Program.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Program.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Program.cs",
+              "RelativeToolTip": "APIQLQA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:37:08.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\ChiTietDonHang.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:30:15.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\DonHang.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\DonHang.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\DonHang.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:29:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\GioHang.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\GioHang.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\GioHang.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\GioHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:28:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\SanPham.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\SanPham.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\SanPham.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\SanPham.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:27:14.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhMucSanPham.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\DanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\DanhMucSanPham.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\DanhMucSanPham.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\DanhMucSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:26:51.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Model\\NguoiDung.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Model\\NguoiDung.cs",
+              "RelativeToolTip": "APIQLQA\\Model\\NguoiDung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:26:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APIQLQA\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "APIQLQA\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:44:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\appsettings.json",
+              "RelativeDocumentMoniker": "APIQLQA\\appsettings.json",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\appsettings.json",
+              "RelativeToolTip": "APIQLQA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T13:31:12.647Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

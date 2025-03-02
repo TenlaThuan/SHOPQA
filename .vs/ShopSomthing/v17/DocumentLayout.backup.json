@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\admin\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\admin\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\user\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\user\\nam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\nam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\views\\home\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|c:\\users\\dell\\source\\repos\\shopsomthing\\shopsomthing\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLTK.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:24:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongKe.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:23:47.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:20:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:19:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopSomthing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAzwD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:18:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "ShopSomthing\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "ShopSomthing\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T21:17:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nam.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\Nam.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\Nam.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\Nam.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\Nam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:14:53.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:07:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:06:56.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ShopSomthing\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ShopSomthing\\ShopSomthing\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ShopSomthing\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T19:03:12.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

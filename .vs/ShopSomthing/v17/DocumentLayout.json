@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\sanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\sanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\product\\nu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\product\\nu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\product\\treem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\product\\treem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\product\\nam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\product\\nam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\nguoidung\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\nguoidung\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\models\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\models\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\admin\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\qltk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\admin\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\admin\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\views\\home\\user\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\views\\home\\user\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|d:\\fpt polytechnic\\tra thu c5\\apicuaco\\shopqa\\shopsomthing\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A514BBD5-DEE1-40E1-92A4-65CCB57D09DA}|ShopSomthing\\ShopSomthing.csproj|solutionrelative:shopsomthing\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\Index.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\Index.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T00:28:31.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopSomthing\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:26:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreEm.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\TreEm.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Product\\TreEm.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\TreEm.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Product\\TreEm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T00:24:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nu.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\Nu.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Product\\Nu.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\Nu.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Product\\Nu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:43:25.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "ShopSomthing\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwG4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:29:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\NguoiDung\\Index.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Index.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\NguoiDung\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:10:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\NguoiDung\\Create.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Create.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\NguoiDung\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:10:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\NguoiDung\\Delete.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Delete.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\NguoiDung\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:10:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\NguoiDung\\Edit.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\NguoiDung\\Edit.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\NguoiDung\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:10:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T22:35:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ShopSomthing\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:35:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\SanPham\\Delete.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Delete.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\SanPham\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T21:10:18.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\SanPham\\Edit.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Edit.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\SanPham\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:59:41.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:58:17.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\SanPham\\Create.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\SanPham\\Create.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\SanPham\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:54:31.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Models\\DonHang.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\DonHang.cs",
+              "RelativeToolTip": "ShopSomthing\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:55:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "ShopSomthing\\Models\\NguoiDung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:53:14.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Models\\SanPham.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\SanPham.cs",
+              "RelativeToolTip": "ShopSomthing\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:48:20.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DanhMucSanPham.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\DanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Models\\DanhMucSanPham.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Models\\DanhMucSanPham.cs",
+              "RelativeToolTip": "ShopSomthing\\Models\\DanhMucSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:48:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QLTK.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\QLTK.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:24:03.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThongKe.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\ThongKe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:23:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:20:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:19:13.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopSomthing\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopSomthing\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA8wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:18:32.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "ShopSomthing\\wwwroot\\css\\admin.css",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "ShopSomthing\\wwwroot\\css\\admin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T21:17:21.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nam.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\Nam.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Product\\Nam.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Product\\Nam.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Product\\Nam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:14:53.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\Admin\\Admin.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:07:48.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "RelativeToolTip": "ShopSomthing\\Views\\Home\\User\\GioHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:06:56.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ShopSomthing\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\ShopSomthing\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ShopSomthing\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T19:03:12.734Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

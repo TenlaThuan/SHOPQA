@@ -1,0 +1,32 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+
+
+.cart-container {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.order-summary {
+    border: 1px solid #000;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.btn-outline-secondary {
+    border: 1px solid #000;
+}

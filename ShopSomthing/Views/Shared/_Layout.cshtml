@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Something Shop</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link href="~/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg ">
+        <div class="container">
+            <a class="navbar-brand" href="#">Something Shop</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Product" asp-action="Nam">Đồ Nam</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Product" asp-action="Nu">Đồ Nữ</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Product" asp-action="TreEm">Đồ Trẻ Em</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="GioHang">Giỏ hàng</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="DangNhap">Đăng nhập</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <div>
+                <h5>Liên hệ</h5>
+                <p><strong>Địa chỉ:</strong> Đường A1, B2, C3</p>
+                <p><strong>E-mail:</strong> Something@gmail.com.com</p>
+                <p><strong>Phone:</strong> 0092 356 3656210</p>
+            </div>
+            <div>
+                <h5>Danh mục sản phẩm</h5>
+                <ul>
+                    <li><a href="nam.html">Đồ Nam</a></li>
+                    <li><a href="nu.html">Đồ Nữ</a></li>
+                    <li><a href="treem.html">Đồ Trẻ Em</a></li>
+                </ul>
+            </div>
+            <div>
+                <h5>Useful Links</h5>
+                <ul>
+                    <li><a href="#">Homepage</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="SanPham" asp-action="Index">About Us</a></li>
+                    <li><a href="#">Help</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div>
+                <h5>Help & Information</h5>
+                <ul>
+                    <li><a href="#">FAQ'S</a></li>
+                    <li><a href="#">Shipping</a></li>
+                    <li><a href="#">Tracking Id</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPT polytechnic\\TRA THU C5\\APICUACO\\SHOPQA\\APIQLQA\\wwwroot\\image\\aonam.png",
+      "PackagePath": "staticwebassets\\image\\aonam.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APIQLQA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APIQLQA.props",
+      "PackagePath": "build\\APIQLQA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APIQLQA.props",
+      "PackagePath": "buildMultiTargeting\\APIQLQA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APIQLQA.props",
+      "PackagePath": "buildTransitive\\APIQLQA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

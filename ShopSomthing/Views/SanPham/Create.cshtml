@@ -1,0 +1,42 @@
+﻿@model SanPham
+
+<div class="container mt-4">
+    <h2>Thêm sản phẩm</h2>
+    <form asp-action="Create" method="post">
+        
+        <div class="mb-3">
+            <label class="form-label">Tên Sản phẩm</label>
+            <textarea asp-for="TenSanPham" class="form-control"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Hình ảnh</label>
+            <input asp-for="HinhAnh" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Kích thước</label>
+            <input asp-for="KichThuoc" type="form-control" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Thương hiệu</label>
+            <input asp-for="ThuongHieu" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Chất liệu</label>
+            <input asp-for="ChatLieu" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Xuất Xứ</label>
+            <input asp-for="XuatXu" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Giá</label>
+            <input asp-for="Gia" class="number" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Mã danh mục</label>
+            <input asp-for="MaDanhMuc" class="number" required>
+        </div>
+        <button type="submit" class="btn btn-warning">Thêm</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

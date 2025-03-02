@@ -1,0 +1,69 @@
+﻿@model List<ShopSomthing.Models.NguoiDung>
+
+
+<link href="~/css/admin.css" rel="stylesheet" />
+
+
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <aside class="col-md-2 bg-dark text-white p-3 vh-100">
+            <h4 class="text-center">Admin Panel</h4>
+            <ul class="nav flex-column">
+
+                <li class="nav-item"><a asp-controller="SanPham" asp-action="Index" class="nav-link text-white">🛍 Quản lý Sản phẩm</a></li>
+                <li class="nav-item"><a asp-controller="NguoiDung" asp-action="Index" class="nav-link text-white">👤 Quản lý Tài khoản</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="ThongKe" class="nav-link text-white">📊 Thống kê</a></li>
+
+            </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="col-md-10 p-4">
+            <h2 class="mb-4">Bảng quản lý</h2>
+
+            <h4>Quản lý tài khoản</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>                      
+                        <th>Tên</th>
+                        <th>Email</th>
+                        <th>Mật khẩu</th>
+                        <th>SĐT</th>
+                        <th>Vai trò</th>                     
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var course in Model)
+                    {
+                        <tr>
+                            <td>@course.HoTen</td>
+                            <td>@course.Email</td>
+                            <td>@course.MatKhau</td>
+                            <td>@course.SoDienThoai</td>
+                            <td>@course.VaiTro</td>                         
+                            <td>
+                                <button class="btn btn-warning btn-sm"> <a href="@Url.Action("Edit", "NguoiDung", new { id = course.MaNguoiDung })">Sửa</a></button>
+                                <button class="btn btn-warning btn-sm"> <a href="@Url.Action("Delete", "NguoiDung", new { id = course.MaNguoiDung })">Xóa </a></button>
+                            </td>
+                        </tr>
+                    }
+                    <tr>
+                    
+                </tbody>
+            </table>
+            <button class="btn btn-success"><a href="@Url.Action("Create", "NguoiDung")" class="btn btn-primary mb-3">Thêm tài khoản</a></button>
+        </main>
+    </div>
+</div>
+
+
+
+
+                
+
+        
+
+            
+                   

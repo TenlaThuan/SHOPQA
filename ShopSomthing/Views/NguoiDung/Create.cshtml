@@ -1,0 +1,32 @@
+﻿@model NguoiDung
+
+<div class="container mt-4">
+    <h2>Chỉnh sửa tài khoản</h2>
+    <form asp-action="Create" method="post">
+     
+
+        <div class="mb-3">
+            <label class="form-label">Tên tài khoản</label>
+            <input asp-for="HoTen" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <textarea asp-for="Email" class="form-control"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Mật khẩu</label>
+            <input asp-for="MatKhau" type="form-control" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">SĐT</label>
+            <input asp-for="SoDienThoai" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Vai trò</label>
+            <input asp-for="VaiTro" class="form-control" required>
+        </div>
+
+        <button type="submit" class="btn btn-warning">Cập nhật</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

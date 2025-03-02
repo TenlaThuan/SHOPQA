@@ -1,0 +1,36 @@
+﻿@model SanPham
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        <strong>Lỗi:</strong> Không tìm thấy sản phẩm để xóa.
+    </div>
+}
+else
+{
+    <div class="container mt-4">
+        <h2>Xóa Sản Phẩm</h2>
+        <p>Bạn có chắc muốn xóa sản phẩm này?</p>
+
+        <table class="table table-bordered">
+            <tr><th>Mã sản phẩm</th><td>@Model.MaSanPham</td></tr>
+            <tr><th>Tên</th><td>@Model.TenSanPham</td></tr>
+            <tr><th>Hình ảnh</th><td>@Model.HinhAnh</td></tr>
+            <tr><th>Kích thước</th><td>@Model.KichThuoc</td></tr>
+            <tr><th>Thương hiệu</th><td>@Model.ThuongHieu</td></tr>
+            <tr><th>Chất liệu</th><td>@Model.ChatLieu</td></tr>
+            <tr><th>Xuất xứ</th><td>@Model.XuatXu</td></tr>
+            <tr><th>Giá</th><td>@Model.Gia</td></tr>
+        </table>
+
+        <form asp-action="DeleteConfirmed" method="post">
+            <input type="hidden" name="id" value="@Model.MaSanPham" />
+
+            <p><strong>ID sản phẩm cần xóa:</strong> @Model.MaSanPham</p>
+
+            <button type="submit" class="btn btn-danger">Xác nhận Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </form>
+
+    </div>
+}

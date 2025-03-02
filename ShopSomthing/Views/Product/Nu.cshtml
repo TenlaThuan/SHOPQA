@@ -1,0 +1,38 @@
+﻿@model List<ShopSomthing.Models.SanPham>
+
+<link href="~/css/sanpham.css" rel="stylesheet" />
+<div class="container mt-4">
+    <h2>Đồ Nữ</h2>
+    <div class="row g-4">
+
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                @if (item.MaDanhMuc == 2)
+                {
+                    <div class="col-md-4">
+                        <div class="product-card">
+                            <a href="chitietsanpham.html"><img src="~/img/@item.HinhAnh" alt="Classic Spring"></a>
+                            <div class="card-body">
+                                <h5>@item.TenSanPham</h5>
+                                <p>@item.Gia VND</p>
+                                <button class="btn btn-primary">Thêm vào giỏ hàng</button>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" class="text-center text-muted">Không có danh mục nào.</td>
+            </tr>
+        }
+
+
+
+    </div>
+</div>  

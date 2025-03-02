@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Đăng nhập";
+}
+<link href="~/css/dangnhap.css" rel="stylesheet" />
+<div class="login-container mt-4 ">
+    <div class="login-image hero-section col-md-6">
+        <img src="~/img/man.png" alt="">
+
+    </div>
+    <div class="login-form col-md-6">
+        <h2>ĐĂNG NHẬP</h2>
+        <form>
+            <input type="email" class="form-control" placeholder="Email" required>
+            <input type="password" class="form-control" placeholder="Mật khẩu" required>
+            <a href="#">Quên mật khẩu?</a>
+            <button type="submit" class="btn btn-primary w-100">Đăng nhập</button>
+            <p class="text-center mt-3">Chưa có tài khoản? <a class="nav-link" asp-controller="Home" asp-action="DangKy">Đăng Ký</a></p>
+        </form>
+    </div>
+</div>

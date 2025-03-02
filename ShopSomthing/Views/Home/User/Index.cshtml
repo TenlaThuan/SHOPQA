@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+<link href="~/css/index.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-md-6 hero-section text-white">
+        <img src="~/img/man.png" class="img-fluid" alt="">
+        <div class="overlay">
+            <h1>Chúng tôi là Something</h1>
+            <p>Đến với shop chúng tôi bạn có thể chọn được những quần áo phù hợp với bản thân và đầy cá tính</p>
+            <a class="btn btn-dark" href="#">Khám phá</a>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="row g-3">
+            <div class="col-md-6 category-card">
+                <img src="~/img/woman.png" class="img-fluid" alt="Women">
+                <div class="overlay">
+                    <h4>Women</h4>
+                    <a  asp-controller="Product" asp-action="Nu"  class="btn btn-outline-light" >Đi đến</a>
+                </div>
+            </div>
+            <div class="col-md-6 category-card">
+                <img src="~/img/man.png" class="img-fluid" alt="Men">
+                <div class="overlay">
+                    <h4>Men</h4>
+                    <a asp-controller="Product" asp-action="Nam" class="btn btn-outline-light" >Đi đến</a>
+                </div>
+            </div>
+            <div class="col-md-6 category-card">
+                <img src="~/img/kid.png" class="img-fluid" alt="Kids">
+                <div class="overlay">
+                    <h4>Kids</h4>
+                    <a  asp-controller="Product" asp-action="TreEm" class="btn btn-outline-light" >Đi đến</a>
+                </div>
+            </div>
+            <div class="col-md-6 category-card">
+                <img src="~/img/woman.png" class="img-fluid" alt="Accessories">
+                <div class="overlay">
+                    <h4>Accessories</h4>
+                    <a  asp-controller="Product" asp-action="Nam" class="btn btn-outline-light">Đi đến</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

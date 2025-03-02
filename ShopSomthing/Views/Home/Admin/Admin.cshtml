@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+}
+<link href="~/css/admin.css" rel="stylesheet" />
+
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <aside class="col-md-2 bg-dark text-white p-3 vh-100">
+                <h4 class="text-center">Admin Panel</h4>
+                <ul class="nav flex-column">
+                
+                <li class="nav-item"><a asp-controller="Home" asp-action="Admin" class="nav-link text-white">🛍 Quản lý Sản phẩm</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="QLTK" class="nav-link text-white">👤 Quản lý Tài khoản</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="ThongKe" class="nav-link text-white">📊 Thống kê</a></li>
+                
+                </ul>
+            </aside>
+
+            <!-- Main Content -->
+            <main class="col-md-10 p-4">
+                <h2 class="mb-4">Bảng quản lý</h2>
+
+                <h4>Quản lý sản phẩm</h4>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Ảnh</th>
+                            <th>Tên</th>
+                            <th>Site</th>
+                            <th>Thương hiệu</th>
+                            <th>Chất liệu</th>
+                            <th>Xuất xứ</th>
+                            <th>Giá</th>
+                            <th>Công cụ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><img src="~/img/aonam.png" alt="Product" width="50"></td>
+                            <td>Áo thun trắng</td>
+                            <td>M</td>
+                            <td>Something</td>
+                            <td>Cotton</td>
+                            <td>VIET NAM</td>
+                            <td>$120.00</td>
+                            <td>
+                                <button class="btn btn-warning btn-sm">Sửa</button>
+                                <button class="btn btn-danger btn-sm">Xóa</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button class="btn btn-success">Thêm sản phẩm</button>           
+            </main>
+        </div>
+    </div>
+
+

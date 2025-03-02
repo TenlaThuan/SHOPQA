@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Giỏ Hàng";
+}
+<link href="~/css/giohang.css" rel="stylesheet" />
+<div class="container cart-container">
+    <h2 class="mb-4">Giỏ hàng</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Màu</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="cart-item">
+                <td><img src="~/img/aonam.png" alt="Product"> Áo thun trắng</td>
+                <td>$120.00</td>
+                <td>
+                    <button class="btn btn-outline-secondary">-</button>
+                    <input type="text" value="0" class="text-center" style="width: 40px; border: none;">
+                    <button class="btn btn-outline-secondary">+</button>
+                </td>
+                <td>Trắng</td>
+            </tr>
+            <tr class="cart-item">
+                <td><img src="~/img/aonam.png" alt="Product"> Áo thun trắng</td>
+                <td>$120.00</td>
+                <td>
+                    <button class="btn btn-outline-secondary">-</button>
+                    <input type="text" value="0" class="text-center" style="width: 40px; border: none;">
+                    <button class="btn btn-outline-secondary">+</button>
+                </td>
+                <td>Trắng</td>
+            </tr>
+            <tr class="cart-item">
+                <td><img src="~/img/aonam.png" alt="Product"> Áo thun trắng</td>
+                <td>$120.00</td>
+                <td>
+                    <button class="btn btn-outline-secondary">-</button>
+                    <input type="text" value="0" class="text-center" style="width: 40px; border: none;">
+                    <button class="btn btn-outline-secondary">+</button>
+                </td>
+                <td>Trắng</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="order-summary mt-4">
+        <h4>Tổng tiền</h4>
+        <input type="text" class="form-control mb-2" placeholder="Mã giảm giá">
+        <p>Số tiền phải trả: <span class="float-end">$120.00</span></p>
+        <p>Phí vận chuyển: <span class="float-end">$10.00</span></p>
+        <hr>
+        <p><strong>Tổng tiền:</strong> <span class="float-end"><strong>$130.00</strong></span></p>
+        <button class="btn btn-dark w-100">Thanh toán</button>
+    </div>
+</div>
